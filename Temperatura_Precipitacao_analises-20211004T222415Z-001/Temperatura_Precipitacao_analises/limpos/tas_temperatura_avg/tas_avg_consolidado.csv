@@ -1,0 +1,71 @@
+quartil,tas,country,iso3
+min,-4.8,Turkey,TUR
+25%,3.88,Turkey,TUR
+50%,11.75,Turkey,TUR
+75%,18.72,Turkey,TUR
+max,24.6,Turkey,TUR
+min,-31.1,Russia,RUS
+25%,-20.4,Russia,RUS
+50%,-5.25,Russia,RUS
+75%,8.4,Russia,RUS
+max,16.1,Russia,RUS
+min,22.7,Philippines,PHL
+25%,25.1,Philippines,PHL
+50%,25.6,Philippines,PHL
+75%,26.1,Philippines,PHL
+max,27.8,Philippines,PHL
+min,16.1,India,IND
+25%,20.5,India,IND
+50%,25.9,India,IND
+75%,27.6,India,IND
+max,31.1,India,IND
+min,-1.4,United Kingdom,GBR
+25%,4.9,United Kingdom,GBR
+50%,8.4,United Kingdom,GBR
+75%,12.8,United Kingdom,GBR
+max,17.2,United Kingdom,GBR
+min,-1.7,France,FRA
+25%,6.2,France,FRA
+50%,10.75,France,FRA
+75%,16.4,France,FRA
+max,22.8,France,FRA
+min,10.9,Egypt,EGY
+25%,16.5,Egypt,EGY
+50%,23.6,Egypt,EGY
+75%,28.4,Egypt,EGY
+max,31.6,Egypt,EGY
+min,-7.2,Germany,DEU
+25%,3.5,Germany,DEU
+50%,8.9,Germany,DEU
+75%,15.1,Germany,DEU
+max,21.7,Germany,DEU
+min,-10.9,China,CHN
+25%,-2.32,China,CHN
+50%,7.8,China,CHN
+75%,15.62,China,CHN
+max,21.0,China,CHN
+min,-30.4,Canada,CAN
+25%,-19.2,Canada,CAN
+50%,-6.45,Canada,CAN
+75%,5.67,Canada,CAN
+max,12.8,Canada,CAN
+min,-8.5,United States,USA
+25%,-1.35,United States,USA
+50%,7.3,United States,USA
+75%,16.25,United States,USA
+max,21.4,United States,USA
+min,22.3,Brazil,BRA
+25%,24.5,Brazil,BRA
+50%,25.5,Brazil,BRA
+75%,26.0,Brazil,BRA
+max,27.2,Brazil,BRA
+min,13.0,Australia,AUS
+25%,16.8,Australia,AUS
+50%,22.4,Australia,AUS
+75%,26.4,Australia,AUS
+max,29.9,Australia,AUS
+min,24.9,Indonesia,IDN
+25%,25.7,Indonesia,IDN
+50%,26.0,Indonesia,IDN
+75%,26.2,Indonesia,IDN
+max,26.9,Indonesia,IDN
