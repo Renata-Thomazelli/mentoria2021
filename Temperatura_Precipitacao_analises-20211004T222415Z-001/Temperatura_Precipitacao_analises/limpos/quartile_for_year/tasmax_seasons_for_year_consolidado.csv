@@ -1,0 +1,854 @@
+year,min,25%,50%,75%,max,country,iso3,tipo
+1960,5.7,9.15,18.05,25.15,29.1,Turkey,TUR,tasmax
+1961,4.0,8.78,18.35,24.1,30.0,Turkey,TUR,tasmax
+1962,4.9,11.53,17.75,26.68,31.2,Turkey,TUR,tasmax
+1963,5.7,8.02,16.45,25.28,30.3,Turkey,TUR,tasmax
+1964,0.6,9.02,17.45,25.02,29.0,Turkey,TUR,tasmax
+1965,3.6,9.45,14.75,26.38,29.7,Turkey,TUR,tasmax
+1966,6.2,10.5,18.7,25.17,30.5,Turkey,TUR,tasmax
+1967,1.9,7.48,16.65,24.02,29.0,Turkey,TUR,tasmax
+1968,2.5,8.3,18.3,24.48,29.6,Turkey,TUR,tasmax
+1969,2.7,8.95,15.6,26.1,30.0,Turkey,TUR,tasmax
+1970,4.4,10.88,18.35,25.28,29.5,Turkey,TUR,tasmax
+1971,4.2,9.78,15.95,25.52,28.9,Turkey,TUR,tasmax
+1972,-0.0,8.52,18.3,24.88,28.8,Turkey,TUR,tasmax
+1973,2.4,8.72,17.3,24.85,29.2,Turkey,TUR,tasmax
+1974,0.6,9.12,17.35,24.7,29.0,Turkey,TUR,tasmax
+1975,3.2,9.22,18.15,25.4,29.6,Turkey,TUR,tasmax
+1976,1.7,7.98,16.65,24.25,27.7,Turkey,TUR,tasmax
+1977,2.3,10.0,16.3,25.18,30.1,Turkey,TUR,tasmax
+1978,4.1,9.7,17.15,24.82,30.2,Turkey,TUR,tasmax
+1979,4.9,10.88,17.3,25.95,30.0,Turkey,TUR,tasmax
+1980,1.4,8.1,17.0,24.7,30.9,Turkey,TUR,tasmax
+1981,4.7,9.7,16.85,26.12,29.3,Turkey,TUR,tasmax
+1982,3.3,7.42,17.1,25.48,28.2,Turkey,TUR,tasmax
+1983,1.1,8.7,17.1,24.55,28.6,Turkey,TUR,tasmax
+1984,2.9,8.93,17.15,25.92,28.4,Turkey,TUR,tasmax
+1985,1.1,6.55,16.65,25.72,30.8,Turkey,TUR,tasmax
+1986,5.4,8.52,18.25,25.37,31.2,Turkey,TUR,tasmax
+1987,5.0,7.05,15.4,25.72,29.8,Turkey,TUR,tasmax
+1988,3.8,7.15,16.1,24.88,29.3,Turkey,TUR,tasmax
+1989,1.9,9.6,18.85,25.4,30.3,Turkey,TUR,tasmax
+1990,1.9,10.58,17.55,25.42,29.8,Turkey,TUR,tasmax
+1991,2.9,8.57,17.25,25.45,29.2,Turkey,TUR,tasmax
+1992,0.7,5.95,17.45,23.98,29.5,Turkey,TUR,tasmax
+1993,1.9,8.12,16.85,25.33,29.5,Turkey,TUR,tasmax
+1994,3.0,9.17,19.55,26.3,29.6,Turkey,TUR,tasmax
+1995,4.5,8.88,16.2,25.65,29.5,Turkey,TUR,tasmax
+1996,3.2,8.18,15.5,24.5,30.2,Turkey,TUR,tasmax
+1997,4.5,7.02,15.4,23.88,28.9,Turkey,TUR,tasmax
+1998,3.9,7.93,18.9,26.05,31.5,Turkey,TUR,tasmax
+1999,6.2,10.17,18.3,25.92,30.5,Turkey,TUR,tasmax
+2000,1.9,8.52,17.85,26.1,32.1,Turkey,TUR,tasmax
+2001,5.4,10.25,18.55,27.22,31.3,Turkey,TUR,tasmax
+2002,1.8,11.37,17.2,25.65,30.3,Turkey,TUR,tasmax
+2003,2.8,6.75,17.5,25.4,30.8,Turkey,TUR,tasmax
+2004,3.8,10.3,18.15,26.0,29.6,Turkey,TUR,tasmax
+2005,5.0,9.5,17.15,25.35,30.7,Turkey,TUR,tasmax
+2006,2.2,9.62,17.9,26.05,32.3,Turkey,TUR,tasmax
+2007,4.3,9.68,17.45,27.4,31.2,Turkey,TUR,tasmax
+2008,1.3,11.5,19.1,26.25,31.6,Turkey,TUR,tasmax
+2009,4.6,9.38,18.4,25.1,29.4,Turkey,TUR,tasmax
+2010,6.2,11.92,17.6,26.95,32.3,Turkey,TUR,tasmax
+2011,5.0,7.78,16.1,25.9,30.9,Turkey,TUR,tasmax
+2012,2.9,7.85,20.1,27.57,30.9,Turkey,TUR,tasmax
+2013,3.5,11.22,18.05,25.93,30.3,Turkey,TUR,tasmax
+2014,6.3,10.9,18.35,25.68,31.6,Turkey,TUR,tasmax
+2015,4.4,9.62,17.35,25.98,30.1,Turkey,TUR,tasmax
+2016,3.0,12.08,20.1,26.0,31.4,Turkey,TUR,tasmax
+2017,2.1,11.08,18.0,27.2,31.5,Turkey,TUR,tasmax
+2018,6.0,12.03,20.25,26.72,30.7,Turkey,TUR,tasmax
+2019,4.8,10.32,18.7,26.75,30.4,Turkey,TUR,tasmax
+2020,4.8,11.73,19.2,27.0,31.0,Turkey,TUR,tasmax
+1960,-24.5,-16.38,-2.1,11.25,20.3,Russia,RUS,tasmax
+1961,-22.9,-14.42,-1.7,11.73,20.2,Russia,RUS,tasmax
+1962,-20.0,-14.78,-0.4,11.3,20.7,Russia,RUS,tasmax
+1963,-20.8,-13.4,-1.5,11.58,20.4,Russia,RUS,tasmax
+1964,-22.2,-15.7,-2.9,11.65,20.8,Russia,RUS,tasmax
+1965,-22.9,-17.97,-1.4,11.58,20.3,Russia,RUS,tasmax
+1966,-24.7,-15.9,-2.7,12.02,19.9,Russia,RUS,tasmax
+1967,-23.1,-13.55,1.6,11.55,21.2,Russia,RUS,tasmax
+1968,-24.3,-17.7,-0.95,10.58,19.7,Russia,RUS,tasmax
+1969,-26.6,-15.47,-2.55,10.65,21.2,Russia,RUS,tasmax
+1970,-22.6,-15.3,-2.25,12.12,21.0,Russia,RUS,tasmax
+1971,-22.7,-14.27,-1.35,12.45,20.3,Russia,RUS,tasmax
+1972,-25.8,-17.1,-0.55,10.48,20.2,Russia,RUS,tasmax
+1973,-22.7,-14.08,-1.4,11.75,19.9,Russia,RUS,tasmax
+1974,-24.5,-17.73,-1.35,12.32,20.7,Russia,RUS,tasmax
+1975,-20.2,-14.02,-0.2,12.45,20.2,Russia,RUS,tasmax
+1976,-21.9,-16.17,-2.35,11.82,19.5,Russia,RUS,tasmax
+1977,-24.4,-14.58,-1.9,11.22,19.9,Russia,RUS,tasmax
+1978,-23.5,-12.48,-1.3,10.75,19.4,Russia,RUS,tasmax
+1979,-25.7,-15.42,-3.5,11.6,20.0,Russia,RUS,tasmax
+1980,-23.2,-15.73,-1.8,11.9,19.8,Russia,RUS,tasmax
+1981,-18.4,-14.12,-0.35,11.52,20.2,Russia,RUS,tasmax
+1982,-24.2,-15.38,-1.45,11.38,20.4,Russia,RUS,tasmax
+1983,-19.2,-12.48,-1.45,12.08,20.0,Russia,RUS,tasmax
+1984,-21.8,-16.7,-2.65,11.65,20.5,Russia,RUS,tasmax
+1985,-24.4,-14.35,-1.4,11.82,19.1,Russia,RUS,tasmax
+1986,-22.5,-13.5,-0.55,11.15,20.0,Russia,RUS,tasmax
+1987,-25.4,-18.38,-2.35,10.72,20.0,Russia,RUS,tasmax
+1988,-20.9,-13.77,-0.55,12.55,21.2,Russia,RUS,tasmax
+1989,-22.0,-13.97,-1.2,11.75,20.2,Russia,RUS,tasmax
+1990,-24.3,-15.0,0.5,11.7,20.6,Russia,RUS,tasmax
+1991,-20.9,-14.52,0.55,12.62,21.4,Russia,RUS,tasmax
+1992,-19.9,-16.15,-2.4,10.88,19.8,Russia,RUS,tasmax
+1993,-21.0,-15.15,-1.45,10.6,20.7,Russia,RUS,tasmax
+1994,-23.0,-15.58,0.2,12.18,20.2,Russia,RUS,tasmax
+1995,-19.2,-11.72,0.95,12.15,20.4,Russia,RUS,tasmax
+1996,-21.7,-13.2,-1.3,10.6,20.9,Russia,RUS,tasmax
+1997,-22.1,-15.15,1.8,12.0,19.6,Russia,RUS,tasmax
+1998,-22.7,-17.85,-2.15,10.85,21.6,Russia,RUS,tasmax
+1999,-22.6,-15.25,-0.8,11.52,21.4,Russia,RUS,tasmax
+2000,-23.4,-15.7,-0.1,11.92,20.5,Russia,RUS,tasmax
+2001,-24.4,-13.35,-0.95,11.7,21.5,Russia,RUS,tasmax
+2002,-23.3,-14.02,-1.0,11.95,21.2,Russia,RUS,tasmax
+2003,-21.2,-14.72,-0.15,12.75,21.0,Russia,RUS,tasmax
+2004,-22.3,-12.9,-1.45,11.92,20.4,Russia,RUS,tasmax
+2005,-20.4,-12.77,0.75,13.48,21.3,Russia,RUS,tasmax
+2006,-25.8,-13.8,-2.4,12.85,20.5,Russia,RUS,tasmax
+2007,-20.7,-12.78,1.85,12.58,20.9,Russia,RUS,tasmax
+2008,-21.4,-12.52,0.35,11.75,20.3,Russia,RUS,tasmax
+2009,-22.6,-16.0,0.55,12.98,20.3,Russia,RUS,tasmax
+2010,-23.8,-13.72,-0.1,12.3,21.5,Russia,RUS,tasmax
+2011,-21.4,-14.2,1.9,12.3,21.2,Russia,RUS,tasmax
+2012,-22.0,-13.78,0.7,13.12,21.8,Russia,RUS,tasmax
+2013,-23.3,-13.2,0.25,12.28,20.9,Russia,RUS,tasmax
+2014,-23.6,-14.0,0.55,12.08,20.3,Russia,RUS,tasmax
+2015,-19.9,-13.42,0.0,12.72,20.5,Russia,RUS,tasmax
+2016,-20.4,-14.65,0.45,13.77,21.5,Russia,RUS,tasmax
+2017,-20.1,-12.82,0.3,11.88,20.4,Russia,RUS,tasmax
+2018,-20.4,-13.6,1.95,13.45,20.8,Russia,RUS,tasmax
+2019,-20.3,-13.52,1.3,12.95,20.6,Russia,RUS,tasmax
+2020,-19.4,-9.85,2.2,14.15,21.2,Russia,RUS,tasmax
+1960,28.6,29.25,29.6,30.35,31.1,Philippines,PHL,tasmax
+1961,27.6,29.08,29.55,30.15,31.3,Philippines,PHL,tasmax
+1962,27.6,28.9,29.35,30.32,31.4,Philippines,PHL,tasmax
+1963,26.6,29.0,29.55,29.8,31.8,Philippines,PHL,tasmax
+1964,28.0,29.12,29.65,29.95,31.0,Philippines,PHL,tasmax
+1965,27.5,28.85,29.45,29.75,30.6,Philippines,PHL,tasmax
+1966,29.0,29.45,29.7,30.2,31.6,Philippines,PHL,tasmax
+1967,27.9,28.72,29.1,29.65,31.6,Philippines,PHL,tasmax
+1968,27.9,28.87,29.6,30.4,31.7,Philippines,PHL,tasmax
+1969,28.6,29.2,29.85,30.48,32.1,Philippines,PHL,tasmax
+1970,28.8,29.2,29.65,30.33,31.8,Philippines,PHL,tasmax
+1971,27.7,28.7,29.1,29.92,30.5,Philippines,PHL,tasmax
+1972,27.9,29.28,29.7,30.35,31.1,Philippines,PHL,tasmax
+1973,28.0,29.5,29.9,30.7,32.1,Philippines,PHL,tasmax
+1974,28.1,28.75,29.55,30.02,31.2,Philippines,PHL,tasmax
+1975,27.8,29.2,29.65,30.0,31.4,Philippines,PHL,tasmax
+1976,27.5,28.98,29.4,29.83,31.0,Philippines,PHL,tasmax
+1977,28.3,28.9,29.5,30.22,31.6,Philippines,PHL,tasmax
+1978,28.6,29.05,29.2,30.42,31.5,Philippines,PHL,tasmax
+1979,28.7,29.58,30.0,30.35,31.4,Philippines,PHL,tasmax
+1980,28.6,29.45,29.65,30.52,31.6,Philippines,PHL,tasmax
+1981,27.3,29.18,29.65,30.12,31.6,Philippines,PHL,tasmax
+1982,27.9,29.3,29.8,30.32,31.5,Philippines,PHL,tasmax
+1983,28.3,29.7,30.25,31.05,32.1,Philippines,PHL,tasmax
+1984,28.4,29.32,29.95,30.35,31.2,Philippines,PHL,tasmax
+1985,28.5,29.67,29.9,30.58,31.4,Philippines,PHL,tasmax
+1986,27.9,29.58,29.8,30.25,31.4,Philippines,PHL,tasmax
+1987,28.9,29.87,30.45,31.22,32.9,Philippines,PHL,tasmax
+1988,28.6,29.98,30.45,31.0,31.9,Philippines,PHL,tasmax
+1989,28.8,29.42,30.0,30.33,31.3,Philippines,PHL,tasmax
+1990,29.2,29.82,30.1,30.33,32.0,Philippines,PHL,tasmax
+1991,29.0,29.37,29.85,30.7,32.2,Philippines,PHL,tasmax
+1992,28.8,29.72,30.0,31.02,31.9,Philippines,PHL,tasmax
+1993,28.6,29.45,29.9,30.52,32.1,Philippines,PHL,tasmax
+1994,29.2,29.6,29.9,30.6,31.7,Philippines,PHL,tasmax
+1995,28.4,29.25,29.75,30.5,31.5,Philippines,PHL,tasmax
+1996,28.2,28.9,29.8,30.22,30.6,Philippines,PHL,tasmax
+1997,27.9,29.67,29.9,30.42,31.3,Philippines,PHL,tasmax
+1998,29.4,29.98,30.7,31.05,32.2,Philippines,PHL,tasmax
+1999,28.8,29.15,29.5,30.0,31.2,Philippines,PHL,tasmax
+2000,28.8,29.2,29.8,30.18,31.0,Philippines,PHL,tasmax
+2001,28.6,29.45,29.9,30.35,31.8,Philippines,PHL,tasmax
+2002,28.9,29.4,29.7,30.58,31.5,Philippines,PHL,tasmax
+2003,28.7,29.4,29.8,30.22,32.0,Philippines,PHL,tasmax
+2004,28.5,29.58,29.85,30.13,31.9,Philippines,PHL,tasmax
+2005,28.3,29.67,29.9,30.4,31.9,Philippines,PHL,tasmax
+2006,29.1,29.5,29.9,30.6,31.5,Philippines,PHL,tasmax
+2007,28.2,29.25,29.6,30.62,31.8,Philippines,PHL,tasmax
+2008,27.9,29.32,29.85,30.05,30.6,Philippines,PHL,tasmax
+2009,27.7,29.2,29.8,30.28,30.6,Philippines,PHL,tasmax
+2010,28.3,29.45,30.1,31.02,31.8,Philippines,PHL,tasmax
+2011,28.3,29.12,29.85,30.3,30.8,Philippines,PHL,tasmax
+2012,29.2,29.5,29.8,30.3,31.9,Philippines,PHL,tasmax
+2013,28.5,29.58,29.85,30.75,32.1,Philippines,PHL,tasmax
+2014,27.5,29.6,29.95,30.52,32.2,Philippines,PHL,tasmax
+2015,28.4,29.85,30.2,30.7,32.0,Philippines,PHL,tasmax
+2016,29.3,29.72,30.15,30.9,32.3,Philippines,PHL,tasmax
+2017,28.6,29.52,29.9,30.28,31.5,Philippines,PHL,tasmax
+2018,28.4,29.8,30.3,30.58,32.0,Philippines,PHL,tasmax
+2019,29.0,29.6,29.9,30.82,31.9,Philippines,PHL,tasmax
+2020,29.5,29.87,30.35,30.8,31.7,Philippines,PHL,tasmax
+1960,24.0,28.3,30.3,31.87,36.9,India,IND,tasmax
+1961,23.4,26.15,30.15,32.42,36.5,India,IND,tasmax
+1962,23.4,27.3,30.1,32.17,36.4,India,IND,tasmax
+1963,24.1,27.9,30.75,32.08,35.8,India,IND,tasmax
+1964,23.6,27.2,30.45,33.02,36.3,India,IND,tasmax
+1965,24.8,27.92,30.7,31.72,36.3,India,IND,tasmax
+1966,24.5,28.2,30.85,32.62,36.9,India,IND,tasmax
+1967,23.9,27.9,30.15,31.98,36.6,India,IND,tasmax
+1968,23.2,27.4,30.7,32.33,36.1,India,IND,tasmax
+1969,24.1,28.3,30.8,33.45,36.2,India,IND,tasmax
+1970,24.3,27.12,30.6,31.95,37.1,India,IND,tasmax
+1971,23.6,26.92,30.2,31.48,35.5,India,IND,tasmax
+1972,24.4,27.18,30.85,32.55,37.2,India,IND,tasmax
+1973,23.9,27.65,30.35,32.15,37.4,India,IND,tasmax
+1974,23.7,27.1,30.95,32.78,36.2,India,IND,tasmax
+1975,23.3,26.6,30.2,31.67,37.0,India,IND,tasmax
+1976,24.0,28.3,30.75,31.88,36.3,India,IND,tasmax
+1977,24.0,28.22,30.65,33.17,35.2,India,IND,tasmax
+1978,23.5,27.6,30.1,31.75,37.6,India,IND,tasmax
+1979,24.6,27.7,30.8,32.53,36.2,India,IND,tasmax
+1980,24.4,28.0,30.8,31.9,37.5,India,IND,tasmax
+1981,23.5,27.12,30.55,32.03,36.4,India,IND,tasmax
+1982,24.5,26.82,30.65,32.65,35.5,India,IND,tasmax
+1983,23.7,26.88,30.35,32.12,35.9,India,IND,tasmax
+1984,23.5,26.92,30.35,32.82,37.7,India,IND,tasmax
+1985,24.2,27.55,30.4,33.28,37.0,India,IND,tasmax
+1986,24.0,27.83,30.8,32.05,36.2,India,IND,tasmax
+1987,24.5,28.35,31.25,32.88,35.6,India,IND,tasmax
+1988,25.3,27.87,30.8,32.1,37.5,India,IND,tasmax
+1989,23.6,27.65,30.8,31.88,37.0,India,IND,tasmax
+1990,25.1,27.83,30.15,31.38,35.8,India,IND,tasmax
+1991,23.7,27.48,30.9,32.28,36.7,India,IND,tasmax
+1992,23.9,27.1,30.45,32.3,36.1,India,IND,tasmax
+1993,24.3,27.98,30.55,32.02,36.8,India,IND,tasmax
+1994,24.7,27.22,30.5,32.88,37.2,India,IND,tasmax
+1995,23.0,27.68,30.75,32.15,36.5,India,IND,tasmax
+1996,24.6,27.82,30.45,32.82,36.8,India,IND,tasmax
+1997,23.7,27.3,30.55,32.0,35.7,India,IND,tasmax
+1998,24.4,28.02,30.85,32.35,37.6,India,IND,tasmax
+1999,24.1,28.58,30.95,32.88,36.3,India,IND,tasmax
+2000,24.8,28.15,30.95,32.3,36.4,India,IND,tasmax
+2001,24.7,28.65,31.2,32.15,37.0,India,IND,tasmax
+2002,24.5,28.15,30.95,32.85,37.6,India,IND,tasmax
+2003,24.7,28.22,30.85,32.3,36.8,India,IND,tasmax
+2004,24.3,28.15,30.9,33.62,36.7,India,IND,tasmax
+2005,24.4,27.65,30.9,32.62,36.2,India,IND,tasmax
+2006,25.0,28.95,31.25,32.12,37.0,India,IND,tasmax
+2007,25.2,28.35,31.1,32.38,37.1,India,IND,tasmax
+2008,24.3,28.32,31.0,32.78,36.5,India,IND,tasmax
+2009,25.9,28.67,31.4,33.25,37.2,India,IND,tasmax
+2010,24.7,29.05,31.2,34.05,37.6,India,IND,tasmax
+2011,23.8,28.65,31.15,32.47,37.0,India,IND,tasmax
+2012,23.6,27.68,30.8,32.48,37.3,India,IND,tasmax
+2013,24.3,27.72,30.95,32.4,37.3,India,IND,tasmax
+2014,24.4,28.02,30.95,32.62,36.4,India,IND,tasmax
+2015,23.9,28.62,31.15,32.42,37.2,India,IND,tasmax
+2016,24.9,28.32,31.25,33.25,37.2,India,IND,tasmax
+2017,24.6,28.22,31.35,32.5,37.4,India,IND,tasmax
+2018,24.7,28.38,31.1,33.08,37.0,India,IND,tasmax
+2019,24.1,28.22,30.9,32.9,37.1,India,IND,tasmax
+2020,23.7,27.8,31.35,32.47,36.7,India,IND,tasmax
+1960,5.4,7.57,12.15,16.6,19.4,United Kingdom,GBR,tasmax
+1961,4.5,8.38,12.55,17.42,18.1,United Kingdom,GBR,tasmax
+1962,5.1,6.52,11.7,15.3,17.2,United Kingdom,GBR,tasmax
+1963,1.3,7.45,11.85,15.85,17.8,United Kingdom,GBR,tasmax
+1964,5.8,6.25,11.45,16.58,18.5,United Kingdom,GBR,tasmax
+1965,5.0,6.35,12.25,15.0,17.7,United Kingdom,GBR,tasmax
+1966,4.3,7.22,10.6,16.73,17.9,United Kingdom,GBR,tasmax
+1967,6.0,7.87,11.45,16.4,19.1,United Kingdom,GBR,tasmax
+1968,3.9,7.55,11.8,16.35,18.1,United Kingdom,GBR,tasmax
+1969,2.9,6.5,12.15,16.7,19.6,United Kingdom,GBR,tasmax
+1970,5.0,6.38,11.1,16.78,19.6,United Kingdom,GBR,tasmax
+1971,6.3,8.25,12.5,15.82,20.0,United Kingdom,GBR,tasmax
+1972,5.4,8.15,12.15,14.77,18.5,United Kingdom,GBR,tasmax
+1973,6.2,7.95,10.85,17.05,19.3,United Kingdom,GBR,tasmax
+1974,7.3,8.28,10.75,14.92,18.1,United Kingdom,GBR,tasmax
+1975,6.9,7.9,11.7,16.58,21.6,United Kingdom,GBR,tasmax
+1976,3.8,7.18,11.7,16.62,21.7,United Kingdom,GBR,tasmax
+1977,4.6,7.78,11.85,15.3,19.0,United Kingdom,GBR,tasmax
+1978,4.2,8.1,12.15,16.23,17.4,United Kingdom,GBR,tasmax
+1979,2.8,6.78,11.25,16.25,18.7,United Kingdom,GBR,tasmax
+1980,4.2,7.35,11.65,16.55,18.2,United Kingdom,GBR,tasmax
+1981,3.4,8.55,10.55,16.23,19.4,United Kingdom,GBR,tasmax
+1982,5.0,8.17,12.15,17.0,19.7,United Kingdom,GBR,tasmax
+1983,4.0,8.25,10.9,15.85,22.2,United Kingdom,GBR,tasmax
+1984,5.0,7.08,12.6,15.95,20.8,United Kingdom,GBR,tasmax
+1985,3.0,6.85,12.1,15.9,18.5,United Kingdom,GBR,tasmax
+1986,1.3,7.55,11.4,15.2,18.2,United Kingdom,GBR,tasmax
+1987,3.0,7.05,12.3,15.35,18.5,United Kingdom,GBR,tasmax
+1988,6.7,8.5,11.75,16.02,18.0,United Kingdom,GBR,tasmax
+1989,6.3,8.75,11.75,17.12,21.5,United Kingdom,GBR,tasmax
+1990,6.2,8.57,12.55,16.5,20.6,United Kingdom,GBR,tasmax
+1991,4.5,8.3,11.35,15.7,20.2,United Kingdom,GBR,tasmax
+1992,5.8,8.88,10.55,17.15,19.2,United Kingdom,GBR,tasmax
+1993,6.5,7.52,11.1,15.55,17.7,United Kingdom,GBR,tasmax
+1994,5.2,8.88,11.95,15.52,20.6,United Kingdom,GBR,tasmax
+1995,4.3,7.9,13.35,16.6,22.6,United Kingdom,GBR,tasmax
+1996,4.9,6.28,11.9,16.85,19.4,United Kingdom,GBR,tasmax
+1997,4.7,9.72,12.7,16.58,21.4,United Kingdom,GBR,tasmax
+1998,6.8,9.02,11.1,16.47,18.8,United Kingdom,GBR,tasmax
+1999,6.3,8.7,12.55,17.02,20.4,United Kingdom,GBR,tasmax
+2000,6.7,8.35,11.35,16.85,19.5,United Kingdom,GBR,tasmax
+2001,5.4,7.07,12.45,16.28,19.2,United Kingdom,GBR,tasmax
+2002,6.6,9.3,12.1,17.05,19.3,United Kingdom,GBR,tasmax
+2003,5.8,9.02,12.5,17.85,20.9,United Kingdom,GBR,tasmax
+2004,6.3,8.45,12.05,17.27,19.7,United Kingdom,GBR,tasmax
+2005,5.7,8.22,12.85,17.6,19.2,United Kingdom,GBR,tasmax
+2006,5.8,7.4,12.85,18.55,22.4,United Kingdom,GBR,tasmax
+2007,7.0,9.15,14.1,16.72,18.3,United Kingdom,GBR,tasmax
+2008,5.8,8.3,11.5,16.88,19.4,United Kingdom,GBR,tasmax
+2009,5.1,8.65,13.1,17.2,19.4,United Kingdom,GBR,tasmax
+2010,2.8,6.38,12.6,17.05,19.7,United Kingdom,GBR,tasmax
+2011,5.3,8.98,14.25,17.02,18.4,United Kingdom,GBR,tasmax
+2012,6.5,7.98,11.55,15.92,19.4,United Kingdom,GBR,tasmax
+2013,5.2,7.45,11.95,16.78,21.7,United Kingdom,GBR,tasmax
+2014,6.7,9.42,13.5,18.02,21.0,United Kingdom,GBR,tasmax
+2015,6.2,9.25,12.75,16.27,18.8,United Kingdom,GBR,tasmax
+2016,6.5,8.2,11.8,17.9,19.7,United Kingdom,GBR,tasmax
+2017,6.4,8.25,12.95,17.17,19.4,United Kingdom,GBR,tasmax
+2018,5.0,7.68,12.5,17.52,21.8,United Kingdom,GBR,tasmax
+2019,6.2,8.82,12.55,17.2,20.6,United Kingdom,GBR,tasmax
+2020,6.6,8.68,12.95,17.38,19.8,United Kingdom,GBR,tasmax
+1960,5.7,10.85,14.6,20.55,23.2,France,FRA,tasmax
+1961,6.1,10.85,16.4,22.38,24.0,France,FRA,tasmax
+1962,4.5,7.7,14.8,21.1,24.6,France,FRA,tasmax
+1963,1.4,8.85,14.85,19.6,24.1,France,FRA,tasmax
+1964,3.7,8.8,13.8,22.08,26.0,France,FRA,tasmax
+1965,4.9,9.32,14.75,18.82,22.1,France,FRA,tasmax
+1966,5.3,9.88,15.55,21.68,22.2,France,FRA,tasmax
+1967,5.4,9.8,15.6,20.17,25.9,France,FRA,tasmax
+1968,5.6,9.15,15.65,19.92,23.1,France,FRA,tasmax
+1969,3.7,9.3,15.75,19.95,24.9,France,FRA,tasmax
+1970,5.1,7.9,13.85,22.28,23.5,France,FRA,tasmax
+1971,6.1,7.78,16.6,19.88,25.7,France,FRA,tasmax
+1972,5.9,10.27,14.2,18.45,23.5,France,FRA,tasmax
+1973,5.3,9.5,13.6,22.25,25.7,France,FRA,tasmax
+1974,8.7,10.35,12.7,19.5,24.3,France,FRA,tasmax
+1975,5.1,9.5,13.95,20.7,25.3,France,FRA,tasmax
+1976,5.8,9.05,14.7,21.02,26.1,France,FRA,tasmax
+1977,6.2,10.2,14.55,19.48,22.4,France,FRA,tasmax
+1978,5.9,9.6,14.05,20.12,22.5,France,FRA,tasmax
+1979,4.4,9.5,14.25,20.9,24.2,France,FRA,tasmax
+1980,4.8,9.45,13.8,19.85,23.9,France,FRA,tasmax
+1981,6.1,9.65,14.75,20.88,24.4,France,FRA,tasmax
+1982,7.5,10.05,14.8,22.65,25.8,France,FRA,tasmax
+1983,5.5,10.28,14.5,21.58,28.2,France,FRA,tasmax
+1984,6.6,9.0,14.65,19.52,25.0,France,FRA,tasmax
+1985,1.8,8.02,15.7,20.85,25.0,France,FRA,tasmax
+1986,2.5,9.6,14.35,20.72,24.4,France,FRA,tasmax
+1987,1.5,8.25,15.95,20.22,23.8,France,FRA,tasmax
+1988,8.4,9.7,15.8,20.48,24.2,France,FRA,tasmax
+1989,7.3,10.2,15.95,21.95,26.0,France,FRA,tasmax
+1990,5.6,12.0,15.65,21.25,26.7,France,FRA,tasmax
+1991,5.8,9.02,14.15,20.48,27.0,France,FRA,tasmax
+1992,5.4,10.95,13.6,20.72,25.3,France,FRA,tasmax
+1993,6.6,9.05,14.2,19.75,24.5,France,FRA,tasmax
+1994,7.9,11.9,14.9,19.88,27.2,France,FRA,tasmax
+1995,6.5,10.88,16.5,19.58,26.9,France,FRA,tasmax
+1996,5.8,9.33,15.7,20.3,24.3,France,FRA,tasmax
+1997,4.7,11.48,16.35,21.4,26.7,France,FRA,tasmax
+1998,7.4,9.83,14.1,20.9,25.9,France,FRA,tasmax
+1999,7.2,9.0,15.4,22.0,25.8,France,FRA,tasmax
+2000,6.5,11.0,15.1,22.1,25.5,France,FRA,tasmax
+2001,5.5,9.3,15.9,20.62,25.5,France,FRA,tasmax
+2002,7.9,11.72,16.0,21.2,23.8,France,FRA,tasmax
+2003,5.8,10.98,15.3,23.07,27.7,France,FRA,tasmax
+2004,6.7,9.65,15.9,22.65,24.6,France,FRA,tasmax
+2005,5.5,9.1,16.75,22.75,25.4,France,FRA,tasmax
+2006,5.3,9.83,17.0,22.7,28.9,France,FRA,tasmax
+2007,7.1,10.68,17.25,21.05,23.1,France,FRA,tasmax
+2008,6.2,10.58,14.95,20.6,24.9,France,FRA,tasmax
+2009,5.1,10.85,16.5,22.42,26.8,France,FRA,tasmax
+2010,3.9,9.18,16.2,21.45,26.7,France,FRA,tasmax
+2011,6.8,12.18,18.45,22.6,24.8,France,FRA,tasmax
+2012,5.0,10.4,15.7,21.75,26.5,France,FRA,tasmax
+2013,5.7,9.25,15.05,21.42,27.4,France,FRA,tasmax
+2014,8.0,12.3,17.7,22.82,24.5,France,FRA,tasmax
+2015,7.3,11.87,16.2,21.28,27.3,France,FRA,tasmax
+2016,8.1,10.55,15.15,22.33,26.3,France,FRA,tasmax
+2017,5.2,10.52,16.85,21.8,25.5,France,FRA,tasmax
+2018,5.7,10.35,17.7,23.95,27.9,France,FRA,tasmax
+2019,6.4,10.73,16.6,23.12,27.8,France,FRA,tasmax
+2020,8.4,12.42,16.95,22.55,27.0,France,FRA,tasmax
+1960,20.5,25.7,32.25,34.9,36.3,Egypt,EGY,tasmax
+1961,20.3,23.0,30.05,34.42,38.4,Egypt,EGY,tasmax
+1962,20.8,26.5,31.0,35.2,37.4,Egypt,EGY,tasmax
+1963,21.9,24.67,31.95,35.48,37.1,Egypt,EGY,tasmax
+1964,18.8,24.48,30.7,33.65,36.3,Egypt,EGY,tasmax
+1965,20.2,24.45,29.85,35.05,37.1,Egypt,EGY,tasmax
+1966,20.5,24.4,31.75,35.12,37.0,Egypt,EGY,tasmax
+1967,19.1,22.58,30.3,34.28,36.4,Egypt,EGY,tasmax
+1968,19.3,24.0,30.6,35.42,38.0,Egypt,EGY,tasmax
+1969,19.1,26.05,30.4,35.33,37.9,Egypt,EGY,tasmax
+1970,20.1,24.62,30.25,34.48,36.1,Egypt,EGY,tasmax
+1971,20.5,24.02,29.45,35.18,36.2,Egypt,EGY,tasmax
+1972,19.5,24.05,31.45,35.52,36.7,Egypt,EGY,tasmax
+1973,20.0,23.87,30.9,34.55,36.9,Egypt,EGY,tasmax
+1974,18.9,24.82,32.25,34.72,36.2,Egypt,EGY,tasmax
+1975,18.9,24.6,31.05,34.28,36.4,Egypt,EGY,tasmax
+1976,19.2,24.52,31.5,34.88,36.3,Egypt,EGY,tasmax
+1977,19.8,23.9,29.4,35.18,36.8,Egypt,EGY,tasmax
+1978,19.6,23.4,31.5,35.15,36.8,Egypt,EGY,tasmax
+1979,20.0,26.25,31.9,34.8,37.5,Egypt,EGY,tasmax
+1980,19.9,24.8,31.05,35.45,36.6,Egypt,EGY,tasmax
+1981,18.1,23.4,31.95,34.6,36.7,Egypt,EGY,tasmax
+1982,20.2,23.0,31.6,34.98,36.4,Egypt,EGY,tasmax
+1983,17.7,22.82,29.2,34.62,37.1,Egypt,EGY,tasmax
+1984,19.7,24.58,30.95,35.38,36.0,Egypt,EGY,tasmax
+1985,21.7,25.25,29.8,35.35,37.0,Egypt,EGY,tasmax
+1986,20.1,24.6,30.85,36.03,37.1,Egypt,EGY,tasmax
+1987,21.1,24.45,29.4,35.07,37.0,Egypt,EGY,tasmax
+1988,20.3,23.28,30.5,36.17,37.7,Egypt,EGY,tasmax
+1989,18.2,24.33,31.5,35.8,37.3,Egypt,EGY,tasmax
+1990,20.3,24.32,31.65,34.58,36.9,Egypt,EGY,tasmax
+1991,19.4,25.08,32.2,34.78,36.5,Egypt,EGY,tasmax
+1992,19.2,23.32,30.8,34.4,37.8,Egypt,EGY,tasmax
+1993,19.7,24.58,32.15,35.33,37.1,Egypt,EGY,tasmax
+1994,20.3,23.93,32.9,35.58,37.5,Egypt,EGY,tasmax
+1995,20.2,23.95,30.7,36.4,38.8,Egypt,EGY,tasmax
+1996,20.9,25.0,30.3,36.35,37.3,Egypt,EGY,tasmax
+1997,20.3,23.32,30.3,35.22,37.6,Egypt,EGY,tasmax
+1998,20.5,23.3,32.1,35.97,38.7,Egypt,EGY,tasmax
+1999,20.9,25.25,31.05,36.12,37.9,Egypt,EGY,tasmax
+2000,19.9,23.5,31.0,34.88,37.5,Egypt,EGY,tasmax
+2001,20.9,25.17,31.15,35.78,38.3,Egypt,EGY,tasmax
+2002,18.9,25.95,31.4,36.3,38.3,Egypt,EGY,tasmax
+2003,21.0,23.28,31.65,35.98,37.6,Egypt,EGY,tasmax
+2004,20.2,25.65,31.25,35.75,37.6,Egypt,EGY,tasmax
+2005,20.6,24.7,30.9,36.05,37.8,Egypt,EGY,tasmax
+2006,20.8,24.45,31.15,36.15,38.2,Egypt,EGY,tasmax
+2007,20.1,25.35,31.6,35.82,37.8,Egypt,EGY,tasmax
+2008,19.3,26.2,31.55,36.55,38.5,Egypt,EGY,tasmax
+2009,22.1,24.92,32.2,35.98,37.9,Egypt,EGY,tasmax
+2010,22.8,27.6,33.2,36.9,38.7,Egypt,EGY,tasmax
+2011,21.4,24.05,30.8,35.72,37.9,Egypt,EGY,tasmax
+2012,19.4,24.22,32.7,36.25,38.6,Egypt,EGY,tasmax
+2013,21.4,26.85,30.65,36.3,37.6,Egypt,EGY,tasmax
+2014,21.7,25.75,32.05,36.2,37.6,Egypt,EGY,tasmax
+2015,20.3,25.85,31.7,37.17,38.8,Egypt,EGY,tasmax
+2016,20.0,26.45,33.05,36.22,39.2,Egypt,EGY,tasmax
+2017,20.2,25.3,31.15,36.38,38.7,Egypt,EGY,tasmax
+2018,20.9,26.08,32.1,36.67,39.0,Egypt,EGY,tasmax
+2019,19.9,24.28,31.75,36.45,39.0,Egypt,EGY,tasmax
+2020,19.5,25.1,32.15,35.95,38.2,Egypt,EGY,tasmax
+1960,2.5,7.07,12.45,18.88,21.7,Germany,DEU,tasmax
+1961,1.8,7.45,14.9,20.3,22.0,Germany,DEU,tasmax
+1962,-0.3,4.35,13.4,18.3,21.3,Germany,DEU,tasmax
+1963,-4.1,5.18,12.9,19.27,23.5,Germany,DEU,tasmax
+1964,0.3,4.1,12.2,19.77,24.0,Germany,DEU,tasmax
+1965,1.1,4.45,12.3,18.2,20.5,Germany,DEU,tasmax
+1966,-0.2,6.08,13.85,18.88,22.2,Germany,DEU,tasmax
+1967,2.7,6.85,13.5,18.92,24.4,Germany,DEU,tasmax
+1968,0.2,5.57,14.5,18.82,21.5,Germany,DEU,tasmax
+1969,-2.2,4.12,13.35,19.58,23.8,Germany,DEU,tasmax
+1970,0.0,4.27,10.75,19.38,22.9,Germany,DEU,tasmax
+1971,2.0,5.62,14.1,18.7,24.2,Germany,DEU,tasmax
+1972,-0.0,6.52,11.7,16.83,22.8,Germany,DEU,tasmax
+1973,2.2,5.82,10.6,20.28,24.2,Germany,DEU,tasmax
+1974,5.6,7.35,11.95,18.38,22.7,Germany,DEU,tasmax
+1975,3.6,6.57,11.1,20.05,24.7,Germany,DEU,tasmax
+1976,1.5,5.22,12.85,19.53,25.2,Germany,DEU,tasmax
+1977,2.5,7.3,12.3,17.88,21.4,Germany,DEU,tasmax
+1978,1.9,6.05,12.3,17.27,20.3,Germany,DEU,tasmax
+1979,-1.6,6.22,12.0,18.82,21.3,Germany,DEU,tasmax
+1980,-0.2,5.68,11.3,19.15,21.7,Germany,DEU,tasmax
+1981,0.5,6.2,12.45,19.33,21.5,Germany,DEU,tasmax
+1982,1.0,7.65,12.65,21.5,24.4,Germany,DEU,tasmax
+1983,1.9,6.9,13.4,19.6,26.6,Germany,DEU,tasmax
+1984,2.4,5.72,13.25,16.9,22.6,Germany,DEU,tasmax
+1985,-2.4,5.65,12.85,18.45,22.9,Germany,DEU,tasmax
+1986,-2.7,6.3,12.4,19.67,22.5,Germany,DEU,tasmax
+1987,-2.9,4.32,13.95,18.42,21.7,Germany,DEU,tasmax
+1988,4.7,5.98,13.5,19.7,22.6,Germany,DEU,tasmax
+1989,5.1,6.57,13.5,20.23,23.1,Germany,DEU,tasmax
+1990,3.0,9.35,13.75,19.9,24.6,Germany,DEU,tasmax
+1991,1.8,6.05,12.7,18.75,24.7,Germany,DEU,tasmax
+1992,3.5,7.72,11.6,21.0,24.8,Germany,DEU,tasmax
+1993,2.4,5.48,13.65,20.3,21.4,Germany,DEU,tasmax
+1994,3.1,8.75,12.6,18.45,27.4,Germany,DEU,tasmax
+1995,0.4,7.15,14.5,17.92,25.9,Germany,DEU,tasmax
+1996,0.5,4.1,13.95,16.8,22.5,Germany,DEU,tasmax
+1997,0.4,7.38,11.9,20.33,25.7,Germany,DEU,tasmax
+1998,3.6,7.5,12.6,19.9,22.4,Germany,DEU,tasmax
+1999,3.3,6.22,13.6,20.92,24.4,Germany,DEU,tasmax
+2000,3.6,8.45,15.0,19.9,23.4,Germany,DEU,tasmax
+2001,2.4,6.75,13.8,19.52,24.3,Germany,DEU,tasmax
+2002,2.5,8.35,12.75,19.67,24.0,Germany,DEU,tasmax
+2003,2.4,8.3,12.65,21.5,26.3,Germany,DEU,tasmax
+2004,2.1,6.82,14.65,19.83,23.9,Germany,DEU,tasmax
+2005,1.9,6.65,15.35,20.75,23.3,Germany,DEU,tasmax
+2006,0.5,6.85,14.95,20.9,27.8,Germany,DEU,tasmax
+2007,3.8,7.25,15.2,20.42,22.6,Germany,DEU,tasmax
+2008,3.3,8.12,13.05,21.05,23.7,Germany,DEU,tasmax
+2009,1.1,7.02,14.95,20.05,25.1,Germany,DEU,tasmax
+2010,-1.4,6.2,13.7,18.62,26.5,Germany,DEU,tasmax
+2011,3.4,7.85,16.15,21.02,23.3,Germany,DEU,tasmax
+2012,1.1,7.3,13.4,20.3,24.7,Germany,DEU,tasmax
+2013,1.7,5.9,14.15,18.73,25.7,Germany,DEU,tasmax
+2014,4.6,9.3,16.15,20.3,24.8,Germany,DEU,tasmax
+2015,4.4,10.0,13.6,19.0,26.0,Germany,DEU,tasmax
+2016,3.6,7.02,12.7,22.38,24.0,Germany,DEU,tasmax
+2017,1.4,7.45,14.05,20.78,23.8,Germany,DEU,tasmax
+2018,1.3,6.52,17.15,22.4,26.7,Germany,DEU,tasmax
+2019,2.7,8.25,15.5,21.08,25.2,Germany,DEU,tasmax
+2020,5.3,9.7,15.45,21.4,26.2,Germany,DEU,tasmax
+1960,-1.48,5.16,14.76,21.45,25.92,China,CHN,tasmax
+1961,-2.0,4.19,14.08,21.16,25.33,China,CHN,tasmax
+1962,-1.64,5.4,13.76,21.23,25.08,China,CHN,tasmax
+1963,-2.12,5.14,14.31,20.48,24.85,China,CHN,tasmax
+1964,-0.75,5.02,14.17,20.91,24.94,China,CHN,tasmax
+1965,-1.3,5.18,13.6,20.83,24.93,China,CHN,tasmax
+1966,-2.02,2.84,13.86,21.01,25.32,China,CHN,tasmax
+1967,-1.99,5.6,13.62,20.8,25.21,China,CHN,tasmax
+1968,-3.12,4.06,14.32,20.96,24.93,China,CHN,tasmax
+1969,-2.33,3.86,13.94,20.6,24.91,China,CHN,tasmax
+1970,-1.53,5.56,14.36,20.44,25.42,China,CHN,tasmax
+1971,-1.34,4.45,13.7,21.03,25.04,China,CHN,tasmax
+1972,-1.14,5.74,14.11,21.01,25.28,China,CHN,tasmax
+1973,-2.24,4.98,14.54,20.67,25.03,China,CHN,tasmax
+1974,-1.04,4.88,14.5,21.43,25.12,China,CHN,tasmax
+1975,-0.51,3.84,13.57,20.44,24.2,China,CHN,tasmax
+1976,-4.34,4.7,14.36,21.28,25.17,China,CHN,tasmax
+1977,-2.58,5.26,14.66,21.32,25.59,China,CHN,tasmax
+1978,-0.38,5.09,14.58,20.6,24.47,China,CHN,tasmax
+1979,-1.93,5.11,13.69,20.78,25.2,China,CHN,tasmax
+1980,-1.88,3.59,13.98,20.82,25.5,China,CHN,tasmax
+1981,-0.23,4.65,14.54,20.68,25.02,China,CHN,tasmax
+1982,-1.67,5.29,13.88,21.07,24.55,China,CHN,tasmax
+1983,-2.88,5.0,13.98,20.48,24.5,China,CHN,tasmax
+1984,-2.11,4.46,14.63,20.49,24.9,China,CHN,tasmax
+1985,-0.73,4.27,13.27,21.07,24.99,China,CHN,tasmax
+1986,-0.22,5.41,14.1,20.88,24.9,China,CHN,tasmax
+1987,-0.28,4.76,14.42,21.12,25.49,China,CHN,tasmax
+1988,-1.33,4.69,14.38,20.81,24.68,China,CHN,tasmax
+1989,-1.28,6.54,14.01,21.27,24.98,China,CHN,tasmax
+1990,-1.62,5.19,13.9,21.15,25.26,China,CHN,tasmax
+1991,-0.95,4.84,14.28,20.35,24.71,China,CHN,tasmax
+1992,-2.5,5.22,13.97,20.9,24.07,China,CHN,tasmax
+1993,-0.55,5.43,14.26,21.3,25.91,China,CHN,tasmax
+1994,-1.71,5.96,13.87,21.21,24.99,China,CHN,tasmax
+1995,-1.8,4.44,13.64,20.97,24.56,China,CHN,tasmax
+1996,-0.61,4.89,14.31,21.01,25.62,China,CHN,tasmax
+1997,-2.12,6.66,16.06,22.08,25.08,China,CHN,tasmax
+1998,0.01,6.36,14.8,21.66,25.3,China,CHN,tasmax
+1999,-2.23,4.01,13.92,21.75,26.24,China,CHN,tasmax
+2000,-1.48,6.46,14.6,21.42,26.32,China,CHN,tasmax
+2001,-0.45,5.95,14.3,21.17,25.5,China,CHN,tasmax
+2002,-0.42,5.52,14.62,21.31,24.81,China,CHN,tasmax
+2003,-0.96,6.33,15.22,21.35,25.17,China,CHN,tasmax
+2004,-1.55,5.5,14.94,22.07,25.62,China,CHN,tasmax
+2005,-0.68,6.4,15.14,21.5,25.85,China,CHN,tasmax
+2006,0.05,6.96,14.66,22.0,25.42,China,CHN,tasmax
+2007,-3.02,5.69,15.09,21.43,25.49,China,CHN,tasmax
+2008,-0.36,4.75,15.68,21.59,25.4,China,CHN,tasmax
+2009,-0.37,6.15,13.43,21.36,26.07,China,CHN,tasmax
+2010,-4.15,5.78,15.07,20.96,25.53,China,CHN,tasmax
+2011,-3.37,4.29,14.76,21.37,25.3,China,CHN,tasmax
+2012,-1.44,5.68,14.6,21.19,25.45,China,CHN,tasmax
+2013,-0.08,5.46,15.33,21.12,25.57,China,CHN,tasmax
+2014,0.42,5.77,15.02,20.87,25.65,China,CHN,tasmax
+2015,-2.04,5.44,14.75,21.7,26.04,China,CHN,tasmax
+2016,0.16,6.08,14.83,21.7,26.66,China,CHN,tasmax
+2017,-1.76,5.36,14.98,21.55,25.85,China,CHN,tasmax
+2018,-0.42,6.07,15.56,22.11,25.52,China,CHN,tasmax
+2019,-0.44,6.43,14.58,21.41,25.26,China,CHN,tasmax
+1960,-19.4,-15.48,-2.75,8.9,16.5,Canada,CAN,tasmax
+1961,-20.1,-16.25,-3.65,7.98,17.0,Canada,CAN,tasmax
+1962,-21.3,-13.0,-2.45,8.85,16.0,Canada,CAN,tasmax
+1963,-20.5,-15.47,-0.8,8.3,15.9,Canada,CAN,tasmax
+1964,-19.9,-16.62,-3.4,7.75,15.8,Canada,CAN,tasmax
+1965,-21.1,-14.02,-2.95,6.7,15.2,Canada,CAN,tasmax
+1966,-24.3,-14.02,-4.1,9.7,16.2,Canada,CAN,tasmax
+1967,-21.0,-15.25,-3.8,9.4,15.7,Canada,CAN,tasmax
+1968,-21.4,-12.9,-2.05,8.9,14.8,Canada,CAN,tasmax
+1969,-22.7,-13.25,-2.4,7.8,15.7,Canada,CAN,tasmax
+1970,-21.0,-13.9,-2.95,8.12,16.3,Canada,CAN,tasmax
+1971,-22.2,-14.35,-2.05,8.85,15.9,Canada,CAN,tasmax
+1972,-23.9,-16.17,-4.8,6.3,14.5,Canada,CAN,tasmax
+1973,-19.4,-13.1,-2.3,9.43,16.7,Canada,CAN,tasmax
+1974,-23.2,-15.65,-4.1,7.67,16.1,Canada,CAN,tasmax
+1975,-22.1,-16.08,-2.95,9.02,17.0,Canada,CAN,tasmax
+1976,-19.4,-15.65,-2.1,9.4,15.9,Canada,CAN,tasmax
+1977,-20.0,-12.5,-0.9,8.9,15.3,Canada,CAN,tasmax
+1978,-20.2,-14.63,-4.0,7.83,15.0,Canada,CAN,tasmax
+1979,-25.8,-14.18,-3.15,8.62,16.7,Canada,CAN,tasmax
+1980,-20.1,-13.55,-1.4,7.7,15.4,Canada,CAN,tasmax
+1981,-15.0,-10.48,-3.1,8.9,16.5,Canada,CAN,tasmax
+1982,-24.1,-15.55,-3.75,8.65,16.3,Canada,CAN,tasmax
+1983,-19.9,-15.12,-2.85,9.0,16.0,Canada,CAN,tasmax
+1984,-20.3,-14.0,-1.9,7.52,16.7,Canada,CAN,tasmax
+1985,-20.4,-14.03,-3.8,8.68,15.9,Canada,CAN,tasmax
+1986,-18.0,-14.0,-3.35,7.7,15.1,Canada,CAN,tasmax
+1987,-16.2,-12.8,-1.75,10.08,16.1,Canada,CAN,tasmax
+1988,-19.9,-12.45,-1.3,9.12,16.5,Canada,CAN,tasmax
+1989,-20.6,-16.67,-2.1,9.32,17.5,Canada,CAN,tasmax
+1990,-21.3,-14.35,-3.1,9.2,16.7,Canada,CAN,tasmax
+1991,-21.4,-13.48,-2.7,8.75,16.4,Canada,CAN,tasmax
+1992,-18.5,-12.75,-3.55,7.12,14.8,Canada,CAN,tasmax
+1993,-18.9,-12.82,-2.3,8.3,15.6,Canada,CAN,tasmax
+1994,-22.6,-12.6,-1.9,9.77,17.2,Canada,CAN,tasmax
+1995,-18.4,-14.68,-2.05,9.78,15.6,Canada,CAN,tasmax
+1996,-22.8,-14.82,-3.45,9.05,16.5,Canada,CAN,tasmax
+1997,-20.6,-13.4,-3.35,9.52,16.5,Canada,CAN,tasmax
+1998,-21.6,-12.6,-0.1,10.35,17.6,Canada,CAN,tasmax
+1999,-19.7,-11.32,-1.95,9.48,15.7,Canada,CAN,tasmax
+2000,-19.5,-11.52,-2.45,8.15,16.9,Canada,CAN,tasmax
+2001,-18.4,-12.2,-2.4,10.1,16.6,Canada,CAN,tasmax
+2002,-18.4,-13.1,-3.8,9.57,16.3,Canada,CAN,tasmax
+2003,-20.0,-13.95,-1.55,9.5,17.2,Canada,CAN,tasmax
+2004,-22.1,-14.38,-2.4,8.52,16.3,Canada,CAN,tasmax
+2005,-20.1,-12.0,-0.75,9.32,15.9,Canada,CAN,tasmax
+2006,-16.0,-11.42,-0.95,10.62,17.0,Canada,CAN,tasmax
+2007,-18.2,-14.85,-1.4,8.68,17.8,Canada,CAN,tasmax
+2008,-19.3,-15.62,-1.8,9.15,16.9,Canada,CAN,tasmax
+2009,-19.1,-15.18,-3.15,10.45,16.3,Canada,CAN,tasmax
+2010,-16.9,-9.7,0.55,9.02,17.2,Canada,CAN,tasmax
+2011,-17.7,-13.25,-2.55,9.98,17.0,Canada,CAN,tasmax
+2012,-18.5,-12.5,-2.4,10.82,18.0,Canada,CAN,tasmax
+2013,-19.8,-13.2,-2.4,10.05,16.2,Canada,CAN,tasmax
+2014,-19.5,-14.85,-2.8,9.2,17.0,Canada,CAN,tasmax
+2015,-19.8,-13.3,-2.0,9.62,16.6,Canada,CAN,tasmax
+2016,-17.3,-11.92,-2.7,9.93,16.7,Canada,CAN,tasmax
+2017,-16.8,-14.0,-2.2,10.18,17.0,Canada,CAN,tasmax
+2018,-19.4,-12.9,-3.85,7.8,17.1,Canada,CAN,tasmax
+2019,-20.1,-12.65,-2.6,9.25,16.4,Canada,CAN,tasmax
+2020,-18.7,-13.45,-3.55,8.95,16.8,Canada,CAN,tasmax
+1960,-0.7,3.27,13.65,22.12,27.0,United States,USA,tasmax
+1961,-1.6,4.55,12.35,21.25,26.3,United States,USA,tasmax
+1962,-0.9,4.22,14.15,21.15,26.2,United States,USA,tasmax
+1963,-1.3,5.25,14.8,22.48,26.6,United States,USA,tasmax
+1964,-1.3,3.6,13.35,21.42,27.1,United States,USA,tasmax
+1965,-0.0,4.18,13.45,20.23,25.9,United States,USA,tasmax
+1966,-3.0,4.8,12.75,21.9,27.3,United States,USA,tasmax
+1967,0.8,5.48,13.35,21.62,25.9,United States,USA,tasmax
+1968,-1.2,4.42,13.25,21.55,26.8,United States,USA,tasmax
+1969,-2.2,3.85,13.55,22.35,26.4,United States,USA,tasmax
+1970,-2.5,5.15,11.95,21.25,26.7,United States,USA,tasmax
+1971,-2.5,3.75,13.0,21.58,26.2,United States,USA,tasmax
+1972,-1.2,3.45,12.25,21.1,26.4,United States,USA,tasmax
+1973,-1.8,4.65,13.1,21.58,26.3,United States,USA,tasmax
+1974,-1.0,4.7,13.5,21.6,27.1,United States,USA,tasmax
+1975,-0.4,3.95,12.05,20.83,26.7,United States,USA,tasmax
+1976,-0.2,5.68,12.9,21.88,26.5,United States,USA,tasmax
+1977,-1.3,5.22,14.1,22.25,27.5,United States,USA,tasmax
+1978,-1.3,5.03,13.85,22.28,27.0,United States,USA,tasmax
+1979,-3.2,5.42,13.85,22.8,26.6,United States,USA,tasmax
+1980,-0.7,5.0,13.85,22.05,27.7,United States,USA,tasmax
+1981,1.1,6.95,13.8,21.88,26.2,United States,USA,tasmax
+1982,-2.5,4.53,11.85,21.02,26.2,United States,USA,tasmax
+1983,-2.1,5.48,12.25,21.6,26.9,United States,USA,tasmax
+1984,-0.9,4.55,12.2,21.62,26.2,United States,USA,tasmax
+1985,-0.2,3.25,12.95,20.48,27.1,United States,USA,tasmax
+1986,2.5,4.72,13.2,21.2,26.5,United States,USA,tasmax
+1987,1.0,6.12,14.6,22.25,26.5,United States,USA,tasmax
+1988,-0.7,5.05,13.65,22.22,27.7,United States,USA,tasmax
+1989,-0.2,4.52,14.4,21.9,27.2,United States,USA,tasmax
+1990,0.2,5.62,14.25,22.9,26.9,United States,USA,tasmax
+1991,-0.5,4.75,14.2,22.28,26.7,United States,USA,tasmax
+1992,-0.0,4.75,13.55,21.12,25.5,United States,USA,tasmax
+1993,-0.5,4.8,13.55,21.17,26.4,United States,USA,tasmax
+1994,-0.1,4.62,13.7,22.52,26.9,United States,USA,tasmax
+1995,0.7,5.48,13.7,22.22,26.7,United States,USA,tasmax
+1996,-1.1,3.98,12.95,21.05,26.6,United States,USA,tasmax
+1997,-1.1,5.38,12.15,22.52,26.5,United States,USA,tasmax
+1998,1.1,5.98,13.8,22.92,27.2,United States,USA,tasmax
+1999,0.4,5.58,13.2,21.6,26.6,United States,USA,tasmax
+2000,-0.2,5.38,13.7,21.72,26.2,United States,USA,tasmax
+2001,1.4,4.93,13.4,22.35,26.5,United States,USA,tasmax
+2002,2.2,5.45,12.9,22.7,27.4,United States,USA,tasmax
+2003,1.4,5.3,14.6,21.6,27.5,United States,USA,tasmax
+2004,-1.3,5.88,14.1,21.75,26.6,United States,USA,tasmax
+2005,0.6,5.88,13.95,22.95,27.5,United States,USA,tasmax
+2006,2.6,5.5,13.9,21.83,27.9,United States,USA,tasmax
+2007,-0.1,6.07,13.95,22.72,27.2,United States,USA,tasmax
+2008,-0.5,5.35,12.95,21.92,26.5,United States,USA,tasmax
+2009,-0.2,5.52,12.35,22.32,26.6,United States,USA,tasmax
+2010,-0.8,5.6,14.8,22.82,26.6,United States,USA,tasmax
+2011,-0.1,5.18,13.95,22.63,27.5,United States,USA,tasmax
+2012,0.6,6.0,14.25,22.78,27.9,United States,USA,tasmax
+2013,0.3,5.12,12.85,22.6,27.1,United States,USA,tasmax
+2014,1.2,5.42,14.5,22.37,26.3,United States,USA,tasmax
+2015,1.2,6.75,15.0,23.15,26.8,United States,USA,tasmax
+2016,1.1,8.4,15.55,23.18,27.6,United States,USA,tasmax
+2017,1.0,7.05,15.05,22.88,28.1,United States,USA,tasmax
+2018,1.5,5.48,13.45,23.0,27.9,United States,USA,tasmax
+2019,1.0,6.07,13.9,23.42,27.8,United States,USA,tasmax
+2020,0.5,6.88,13.85,22.58,27.6,United States,USA,tasmax
+1960,28.6,29.52,30.35,30.52,31.6,Brazil,BRA,tasmax
+1961,28.9,30.08,30.45,31.45,32.2,Brazil,BRA,tasmax
+1962,28.7,29.55,30.5,30.85,31.9,Brazil,BRA,tasmax
+1963,28.8,30.02,30.6,31.35,32.7,Brazil,BRA,tasmax
+1964,28.6,29.95,30.4,30.8,31.4,Brazil,BRA,tasmax
+1965,29.5,29.67,30.4,30.92,31.8,Brazil,BRA,tasmax
+1966,29.6,29.92,30.65,30.9,31.8,Brazil,BRA,tasmax
+1967,28.8,29.9,30.45,30.95,32.0,Brazil,BRA,tasmax
+1968,28.3,29.42,30.3,30.72,31.6,Brazil,BRA,tasmax
+1969,29.5,30.25,30.75,31.15,31.9,Brazil,BRA,tasmax
+1970,29.4,30.22,30.65,30.9,31.6,Brazil,BRA,tasmax
+1971,28.2,29.32,30.1,30.4,31.0,Brazil,BRA,tasmax
+1972,29.4,29.92,30.25,31.05,31.4,Brazil,BRA,tasmax
+1973,28.9,29.82,30.65,30.88,31.4,Brazil,BRA,tasmax
+1974,28.6,29.38,30.0,30.3,30.8,Brazil,BRA,tasmax
+1975,28.4,29.35,30.05,30.38,31.1,Brazil,BRA,tasmax
+1976,28.4,29.3,29.95,30.52,31.0,Brazil,BRA,tasmax
+1977,29.0,30.08,30.5,30.68,31.3,Brazil,BRA,tasmax
+1978,28.7,29.78,30.35,30.65,31.4,Brazil,BRA,tasmax
+1979,28.4,29.62,30.25,30.75,31.6,Brazil,BRA,tasmax
+1980,29.1,30.12,30.55,30.7,31.5,Brazil,BRA,tasmax
+1981,28.5,30.02,30.45,30.7,30.9,Brazil,BRA,tasmax
+1982,29.1,29.75,30.35,30.78,31.4,Brazil,BRA,tasmax
+1983,29.1,30.3,30.55,30.72,31.0,Brazil,BRA,tasmax
+1984,29.0,29.82,30.3,30.58,31.6,Brazil,BRA,tasmax
+1985,28.6,29.9,30.3,30.75,31.4,Brazil,BRA,tasmax
+1986,29.2,30.0,30.5,30.72,31.1,Brazil,BRA,tasmax
+1987,29.3,30.37,30.75,31.22,32.1,Brazil,BRA,tasmax
+1988,28.7,30.08,30.8,31.13,31.7,Brazil,BRA,tasmax
+1989,28.8,29.78,30.25,30.6,31.1,Brazil,BRA,tasmax
+1990,28.8,30.12,30.6,30.75,31.9,Brazil,BRA,tasmax
+1991,29.3,30.12,30.35,30.95,31.3,Brazil,BRA,tasmax
+1992,28.8,30.17,30.35,30.52,31.3,Brazil,BRA,tasmax
+1993,29.3,29.98,30.4,30.88,31.6,Brazil,BRA,tasmax
+1994,29.3,30.17,30.45,30.98,31.8,Brazil,BRA,tasmax
+1995,29.3,30.22,30.8,31.15,31.8,Brazil,BRA,tasmax
+1996,28.6,29.98,30.85,30.9,31.5,Brazil,BRA,tasmax
+1997,29.4,30.15,30.65,31.45,32.5,Brazil,BRA,tasmax
+1998,29.6,30.9,31.25,31.63,32.1,Brazil,BRA,tasmax
+1999,29.2,29.98,30.85,31.02,31.8,Brazil,BRA,tasmax
+2000,29.1,30.1,30.65,31.1,32.2,Brazil,BRA,tasmax
+2001,28.9,30.6,30.8,31.52,31.9,Brazil,BRA,tasmax
+2002,29.7,30.7,30.95,31.52,32.7,Brazil,BRA,tasmax
+2003,29.9,30.45,31.0,31.4,31.9,Brazil,BRA,tasmax
+2004,29.6,30.45,30.95,31.3,32.2,Brazil,BRA,tasmax
+2005,29.9,30.68,31.15,31.5,32.5,Brazil,BRA,tasmax
+2006,29.3,30.45,31.2,31.4,32.2,Brazil,BRA,tasmax
+2007,29.6,30.6,31.0,31.38,32.3,Brazil,BRA,tasmax
+2008,29.1,30.3,30.5,31.52,32.4,Brazil,BRA,tasmax
+2009,29.1,30.38,30.75,31.48,32.2,Brazil,BRA,tasmax
+2010,29.4,30.58,31.25,31.5,32.4,Brazil,BRA,tasmax
+2011,29.7,30.37,30.7,31.15,32.0,Brazil,BRA,tasmax
+2012,29.8,30.45,30.65,31.48,32.5,Brazil,BRA,tasmax
+2013,30.1,30.35,31.0,31.3,32.0,Brazil,BRA,tasmax
+2014,30.0,30.4,31.0,31.55,32.5,Brazil,BRA,tasmax
+2015,30.2,30.72,31.25,32.12,33.0,Brazil,BRA,tasmax
+2016,29.5,31.08,31.3,31.8,32.4,Brazil,BRA,tasmax
+2017,30.2,30.6,31.15,31.52,32.3,Brazil,BRA,tasmax
+2018,29.5,30.7,31.0,31.22,32.3,Brazil,BRA,tasmax
+2019,30.2,30.88,31.25,31.65,32.6,Brazil,BRA,tasmax
+2020,30.0,30.62,31.4,31.83,32.8,Brazil,BRA,tasmax
+1960,20.5,21.82,29.2,32.15,35.1,Australia,AUS,tasmax
+1961,20.4,24.08,30.2,33.07,35.1,Australia,AUS,tasmax
+1962,21.1,23.65,29.1,33.82,34.1,Australia,AUS,tasmax
+1963,20.3,23.72,28.95,32.93,34.5,Australia,AUS,tasmax
+1964,21.7,23.98,28.25,32.83,34.6,Australia,AUS,tasmax
+1965,20.1,24.7,29.7,33.17,36.1,Australia,AUS,tasmax
+1966,20.3,23.22,28.65,32.72,34.1,Australia,AUS,tasmax
+1967,20.5,24.12,29.95,32.75,34.7,Australia,AUS,tasmax
+1968,19.1,21.48,29.65,32.95,34.9,Australia,AUS,tasmax
+1969,21.1,24.15,29.9,33.17,36.3,Australia,AUS,tasmax
+1970,21.5,23.22,29.55,32.72,35.1,Australia,AUS,tasmax
+1971,20.4,23.8,29.05,32.12,35.4,Australia,AUS,tasmax
+1972,21.0,24.52,29.7,33.05,36.5,Australia,AUS,tasmax
+1973,21.1,24.78,29.4,32.4,35.4,Australia,AUS,tasmax
+1974,20.9,23.15,27.7,31.72,34.1,Australia,AUS,tasmax
+1975,21.4,24.8,27.75,32.55,34.4,Australia,AUS,tasmax
+1976,21.4,24.15,28.0,31.8,35.1,Australia,AUS,tasmax
+1977,20.8,24.5,29.6,33.3,34.9,Australia,AUS,tasmax
+1978,19.6,23.6,29.15,33.0,34.4,Australia,AUS,tasmax
+1979,21.5,22.85,29.35,33.55,35.9,Australia,AUS,tasmax
+1980,20.6,25.0,29.65,33.92,35.1,Australia,AUS,tasmax
+1981,20.7,24.05,30.5,31.95,34.6,Australia,AUS,tasmax
+1982,20.5,24.8,29.35,34.0,35.3,Australia,AUS,tasmax
+1983,20.0,24.17,29.15,32.5,36.2,Australia,AUS,tasmax
+1984,19.3,24.1,29.05,32.58,34.0,Australia,AUS,tasmax
+1985,20.8,24.45,28.75,33.22,36.0,Australia,AUS,tasmax
+1986,19.5,24.35,28.85,34.22,34.9,Australia,AUS,tasmax
+1987,21.3,23.7,29.7,32.68,34.7,Australia,AUS,tasmax
+1988,21.6,24.35,30.15,32.75,36.1,Australia,AUS,tasmax
+1989,19.7,23.75,29.15,32.48,34.6,Australia,AUS,tasmax
+1990,20.4,24.1,29.3,33.75,35.3,Australia,AUS,tasmax
+1991,21.3,24.78,30.65,33.1,34.7,Australia,AUS,tasmax
+1992,21.4,23.6,28.85,33.12,34.6,Australia,AUS,tasmax
+1993,20.8,24.42,29.55,33.02,35.1,Australia,AUS,tasmax
+1994,21.9,25.15,30.0,32.9,35.9,Australia,AUS,tasmax
+1995,21.0,24.08,28.75,32.65,34.5,Australia,AUS,tasmax
+1996,21.2,24.6,29.25,32.98,34.8,Australia,AUS,tasmax
+1997,20.4,23.28,29.8,33.38,34.9,Australia,AUS,tasmax
+1998,20.1,25.2,29.25,33.6,35.4,Australia,AUS,tasmax
+1999,21.7,25.25,29.0,32.02,35.7,Australia,AUS,tasmax
+2000,20.7,23.1,28.9,32.3,33.8,Australia,AUS,tasmax
+2001,21.2,24.28,28.7,31.88,35.8,Australia,AUS,tasmax
+2002,22.4,25.72,31.2,33.22,35.2,Australia,AUS,tasmax
+2003,21.8,24.9,29.35,33.33,35.5,Australia,AUS,tasmax
+2004,21.0,23.78,30.8,33.1,35.0,Australia,AUS,tasmax
+2005,21.5,25.28,31.0,33.78,35.3,Australia,AUS,tasmax
+2006,20.6,24.48,29.6,34.0,35.1,Australia,AUS,tasmax
+2007,19.5,25.38,30.5,33.05,35.4,Australia,AUS,tasmax
+2008,21.2,24.55,30.0,32.52,35.6,Australia,AUS,tasmax
+2009,21.4,25.07,29.7,33.9,34.8,Australia,AUS,tasmax
+2010,20.6,23.78,28.85,31.98,35.1,Australia,AUS,tasmax
+2011,21.2,24.25,28.9,32.52,35.0,Australia,AUS,tasmax
+2012,20.8,24.52,29.7,33.72,35.3,Australia,AUS,tasmax
+2013,21.4,25.35,31.05,33.58,36.8,Australia,AUS,tasmax
+2014,21.8,25.32,30.95,33.9,35.8,Australia,AUS,tasmax
+2015,21.2,24.15,30.1,34.4,36.0,Australia,AUS,tasmax
+2016,21.1,25.0,30.25,33.78,35.3,Australia,AUS,tasmax
+2017,22.6,25.33,30.05,33.8,35.2,Australia,AUS,tasmax
+2018,22.1,24.8,31.45,33.4,36.1,Australia,AUS,tasmax
+2019,21.9,24.8,31.1,34.33,37.6,Australia,AUS,tasmax
+2020,22.2,24.22,30.35,33.92,35.8,Australia,AUS,tasmax
+1960,30.0,30.25,30.7,30.7,31.3,Indonesia,IDN,tasmax
+1961,29.9,30.17,30.5,30.7,31.0,Indonesia,IDN,tasmax
+1962,29.7,30.08,30.25,30.52,30.9,Indonesia,IDN,tasmax
+1963,29.3,30.1,30.65,30.78,31.2,Indonesia,IDN,tasmax
+1964,29.9,30.3,30.35,30.6,30.8,Indonesia,IDN,tasmax
+1965,29.6,30.17,30.4,30.63,31.3,Indonesia,IDN,tasmax
+1966,30.0,30.3,30.5,30.9,31.0,Indonesia,IDN,tasmax
+1967,29.9,30.15,30.4,30.63,31.1,Indonesia,IDN,tasmax
+1968,29.9,30.15,30.5,30.72,30.9,Indonesia,IDN,tasmax
+1969,30.2,30.4,30.7,30.95,31.2,Indonesia,IDN,tasmax
+1970,30.0,30.4,30.65,30.9,31.1,Indonesia,IDN,tasmax
+1971,29.8,30.17,30.3,30.83,30.9,Indonesia,IDN,tasmax
+1972,29.8,30.5,30.8,31.05,31.6,Indonesia,IDN,tasmax
+1973,30.3,30.7,30.8,30.9,31.4,Indonesia,IDN,tasmax
+1974,29.9,30.32,30.65,30.9,31.2,Indonesia,IDN,tasmax
+1975,30.2,30.3,30.55,30.9,31.1,Indonesia,IDN,tasmax
+1976,29.5,30.2,30.55,30.83,31.0,Indonesia,IDN,tasmax
+1977,29.7,30.17,30.4,30.9,31.3,Indonesia,IDN,tasmax
+1978,30.1,30.37,30.5,30.75,31.1,Indonesia,IDN,tasmax
+1979,30.3,30.4,30.75,30.83,31.4,Indonesia,IDN,tasmax
+1980,30.2,30.3,30.65,31.0,31.3,Indonesia,IDN,tasmax
+1981,29.9,30.55,30.8,31.02,31.4,Indonesia,IDN,tasmax
+1982,30.1,30.58,30.75,31.13,31.5,Indonesia,IDN,tasmax
+1983,30.3,30.65,30.85,31.22,31.5,Indonesia,IDN,tasmax
+1984,29.7,30.12,30.3,30.52,30.9,Indonesia,IDN,tasmax
+1985,30.0,30.5,30.6,30.75,31.0,Indonesia,IDN,tasmax
+1986,29.8,30.5,30.7,30.83,31.3,Indonesia,IDN,tasmax
+1987,30.0,30.67,31.05,31.1,31.4,Indonesia,IDN,tasmax
+1988,30.0,30.55,30.7,30.95,31.3,Indonesia,IDN,tasmax
+1989,30.0,30.37,30.55,30.8,31.0,Indonesia,IDN,tasmax
+1990,30.1,30.78,30.9,31.15,31.4,Indonesia,IDN,tasmax
+1991,30.3,30.58,30.85,31.0,31.2,Indonesia,IDN,tasmax
+1992,30.3,30.6,30.9,31.02,31.2,Indonesia,IDN,tasmax
+1993,30.2,30.58,30.75,30.9,31.2,Indonesia,IDN,tasmax
+1994,30.3,30.58,30.75,30.92,31.2,Indonesia,IDN,tasmax
+1995,30.3,30.48,30.7,31.0,31.4,Indonesia,IDN,tasmax
+1996,30.0,30.6,30.75,31.13,31.3,Indonesia,IDN,tasmax
+1997,30.3,30.8,31.0,31.1,31.4,Indonesia,IDN,tasmax
+1998,30.7,30.85,31.25,31.42,31.6,Indonesia,IDN,tasmax
+1999,30.3,30.48,30.7,31.1,31.2,Indonesia,IDN,tasmax
+2000,30.2,30.7,30.85,31.1,31.3,Indonesia,IDN,tasmax
+2001,30.2,30.78,30.95,31.02,31.3,Indonesia,IDN,tasmax
+2002,30.5,30.9,31.05,31.25,31.6,Indonesia,IDN,tasmax
+2003,30.4,30.6,30.85,31.13,31.5,Indonesia,IDN,tasmax
+2004,30.4,30.6,31.0,31.13,31.5,Indonesia,IDN,tasmax
+2005,30.4,30.67,30.95,31.1,31.2,Indonesia,IDN,tasmax
+2006,30.3,30.6,30.85,30.92,31.3,Indonesia,IDN,tasmax
+2007,30.2,30.58,30.75,30.83,31.3,Indonesia,IDN,tasmax
+2008,30.0,30.35,30.6,30.92,31.2,Indonesia,IDN,tasmax
+2009,30.0,30.67,30.95,31.22,31.4,Indonesia,IDN,tasmax
+2010,30.3,30.75,30.95,31.2,31.4,Indonesia,IDN,tasmax
+2011,30.2,30.58,30.75,30.9,31.2,Indonesia,IDN,tasmax
+2012,30.3,30.7,30.95,31.13,31.5,Indonesia,IDN,tasmax
+2013,30.6,30.67,30.95,31.2,31.4,Indonesia,IDN,tasmax
+2014,29.9,30.75,31.05,31.3,31.5,Indonesia,IDN,tasmax
+2015,30.2,30.9,31.05,31.3,31.7,Indonesia,IDN,tasmax
+2016,30.6,30.87,31.15,31.25,31.5,Indonesia,IDN,tasmax
+2017,30.7,30.78,30.95,31.02,31.5,Indonesia,IDN,tasmax
+2018,30.4,30.85,31.1,31.22,31.5,Indonesia,IDN,tasmax
+2019,30.9,31.08,31.1,31.33,31.4,Indonesia,IDN,tasmax
+2020,30.7,30.95,31.2,31.4,31.5,Indonesia,IDN,tasmax
