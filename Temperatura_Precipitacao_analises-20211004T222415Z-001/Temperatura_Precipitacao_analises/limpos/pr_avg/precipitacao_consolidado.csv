@@ -1,0 +1,71 @@
+quartil,rainfall_mm,country,iso3
+min,2.1,Turkey,TUR
+25%,23.9,Turkey,TUR
+50%,46.2,Turkey,TUR
+75%,67.8,Turkey,TUR
+max,141.0,Turkey,TUR
+min,11.5,Russia,RUS
+25%,22.58,Russia,RUS
+50%,32.55,Russia,RUS
+75%,49.75,Russia,RUS
+max,72.2,Russia,RUS
+min,13.6,Philippines,PHL
+25%,114.8,Philippines,PHL
+50%,195.05,Philippines,PHL
+75%,281.08,Philippines,PHL
+max,457.9,Philippines,PHL
+min,1.2,India,IND
+25%,15.7,India,IND
+50%,42.2,India,IND
+75%,152.2,India,IND
+max,325.4,India,IND
+min,16.4,United Kingdom,GBR
+25%,68.2,United Kingdom,GBR
+50%,92.85,United Kingdom,GBR
+75%,122.32,United Kingdom,GBR
+max,232.3,United Kingdom,GBR
+min,7.4,France,FRA
+25%,50.9,France,FRA
+50%,67.0,France,FRA
+75%,86.38,France,FRA
+max,163.8,France,FRA
+min,0.4,Egypt,EGY
+25%,1.5,Egypt,EGY
+50%,2.5,Egypt,EGY
+75%,3.4,Egypt,EGY
+max,16.7,Egypt,EGY
+min,2.8,Germany,DEU
+25%,41.28,Germany,DEU
+50%,58.3,Germany,DEU
+75%,74.5,Germany,DEU
+max,135.2,Germany,DEU
+min,2.0,China,CHN
+25%,16.9,China,CHN
+50%,38.05,China,CHN
+75%,75.55,China,CHN
+max,133.2,China,CHN
+min,15.4,Canada,CAN
+25%,26.8,Canada,CAN
+50%,34.5,Canada,CAN
+75%,48.3,Canada,CAN
+max,69.6,Canada,CAN
+min,25.3,United States,USA
+25%,47.08,United States,USA
+50%,55.7,United States,USA
+75%,64.1,United States,USA
+max,88.8,United States,USA
+min,38.7,Brazil,BRA
+25%,78.65,Brazil,BRA
+50%,146.65,Brazil,BRA
+75%,207.12,Brazil,BRA
+max,315.1,Brazil,BRA
+min,6.9,Australia,AUS
+25%,19.1,Australia,AUS
+50%,30.6,Australia,AUS
+75%,52.8,Australia,AUS
+max,208.7,Australia,AUS
+min,92.0,Indonesia,IDN
+25%,193.42,Indonesia,IDN
+50%,244.4,Indonesia,IDN
+75%,281.42,Indonesia,IDN
+max,358.3,Indonesia,IDN
